@@ -23,4 +23,4 @@ class Solution:
         return isPalindrome
     
     def ascii(self, ptr:str) -> bool:
-        return (48 <= ord(ptr) <= 57) or (65 <= ord(ptr) <= 90) or (97 <= ord(ptr) <= 122)
+        return ('a' <= ptr <= 'z') or ('A' <= ptr <= 'Z') or ('0' <= ptr <= '9')
