@@ -8,10 +8,12 @@ class Solution:
                                  # r - l: gives us the distance between the pointers
                                  # // 2 divide and truncate it by 2 to get the "halway" point of the distance between them
                                  # l + ans: by adding halway of the distance between them to l we get the midpoint val.
-            if nums[m] > target:
-                r = m-1
-            elif nums[m] < target:
-                l = m+1
-            else:
-                return m
+            match nums[m]:
+                case _ if nums[m] > target:
+                    r = m - 1
+                case _ if nums[m] < target:
+                    l = m + 1
+                case _:
+                    return m
+        
         return -1
