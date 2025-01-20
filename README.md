@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 ## Binary Tree
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0789-kth-largest-element-in-a-stream) |
+## Array
+|  |
+| ------- |
+| [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 <!---LeetCode Topics End-->
