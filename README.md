@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -29,5 +30,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
 | [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
