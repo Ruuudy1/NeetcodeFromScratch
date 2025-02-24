@@ -49,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0208-implement-trie-prefix-tree) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0076-minimum-window-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0102-binary-tree-level-order-traversal) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
