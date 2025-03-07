@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
+| [0661-image-smoother](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0661-image-smoother) |
 | [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0076-minimum-window-substring) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
