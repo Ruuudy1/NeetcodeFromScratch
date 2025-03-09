@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0023-merge-k-sorted-lists) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 ## Binary Tree
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0023-merge-k-sorted-lists) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0661-image-smoother) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
