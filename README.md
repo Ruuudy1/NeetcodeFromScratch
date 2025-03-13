@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0239-sliding-window-maximum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 ## Binary Tree
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0004-median-of-two-sorted-arrays) |
+| [0239-sliding-window-maximum](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0239-sliding-window-maximum) |
 | [0661-image-smoother](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0661-image-smoother) |
 | [1127-last-stone-weight](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/1127-last-stone-weight) |
 ## Divide and Conquer
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
 | ------- |
@@ -88,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0025-reverse-nodes-in-k-group) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Ruuudy1/NeetcodeFromScratch/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
