@@ -5,24 +5,26 @@
 #         self.left = left
 #         self.right = right
 
-# All this is is just BFS with a results array to return everything
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        res = []
-
-        q = collections.deque() #initialize a queue
-        q.append(root) # initialize the queue with the root node
+        # cse 100  space: O(n/2 -> n) time: O(n) 
+        # go through each level and make a list from left to right
+        # then combine all the sublists into one list
         
-        # checks if the queue is not empty and stores the length of the queue
-        while q: 
-            qlen = len(q)
-            level = [] # make a list for each level at the time
+        # we will do BFS (queue)
+        res = []
+        q = collections.deque()
+        q.append(root)
+        
+        while q:
+            qlen = len(q) # ensuring we iterate through one level at a time
+            level = [] # add to our result list 
             for i in range(qlen): 
-                node = q.popleft() # first in first out
+                node = q.popleft() # First in first out
                 if node: 
-                    level.append(node.val) # add the curr node to the level list
-                    q.append(node.left) # add the children to the queue
-                    q.append(node.right) # ^
+                    level.append(node.val) # append it to the list level
+                    q.append(node.left) # then append its children ->
+                    q.append(node.right) # 
             if level:
-                res.append(level) # append one level at a time on the res array to make a 2D array 
+                res.append(level) # add sublists to the big list
         return res
